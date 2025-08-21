@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "taskName": "Implement Authentication",
+    "status": "in-progress",
+    "priority": "high",
+    "assignedTo": "Mukta"
+  },
+  {
+    "id": 2,
+    "taskName": "Create Landing Page",
+    "status": "todo",
+    "priority": "medium",
+    "assignedTo": "Tanmay"
+  },
+  {
+    "id": 3,
+    "taskName": "Fix Navbar Responsiveness",
+    "status": "done",
+    "priority": "low",
+    "assignedTo": "Pooja"
+  },
+  {
+    "id": 4,
+    "taskName": "Optimize Database Queries",
+    "status": "in-progress",
+    "priority": "high",
+    "assignedTo": "Backend Team"
+  },
+  {
+    "id": 5,
+    "taskName": "Write Unit Tests",
+    "status": "todo",
+    "priority": "medium",
+    "assignedTo": "QA Team"
+  }
+]

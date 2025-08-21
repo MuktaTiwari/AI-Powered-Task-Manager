@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "AI Task Manager",
+    "status": "In Progress",
+    "team": "AI Team",
+    "createdAt": "2025-07-01",
+    "completedTasks": 12,
+    "totalTasks": 20
+  },
+  {
+    "id": 2,
+    "name": "E-Commerce Platform",
+    "status": "Completed",
+    "team": "Web Team",
+    "createdAt": "2025-05-15",
+    "completedTasks": 50,
+    "totalTasks": 50
+  },
+  {
+    "id": 3,
+    "name": "Payment Gateway UI",
+    "status": "In Progress",
+    "team": "Frontend Team",
+    "createdAt": "2025-08-10",
+    "completedTasks": 5,
+    "totalTasks": 10
+  },
+  {
+    "id": 4,
+    "name": "Hospital Management System",
+    "status": "Pending",
+    "team": "Backend Team",
+    "createdAt": "2025-06-20",
+    "completedTasks": 0,
+    "totalTasks": 15
+  },
+
+  {
+    "id": 5,
+    "name": "Hotel Management System",
+    "status": "Completed",
+    "team": "Backend Team",
+    "createdAt": "2025-06-20",
+    "completedTasks": 60,
+    "totalTasks": 15
+  }
+]

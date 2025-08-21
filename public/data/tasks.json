@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Design Dashboard UI",
+    "status": "in-progress",
+    "priority": "high",
+    "assignedTo": "Mukta"
+  },
+  {
+    "id": 2,
+    "title": "Set up Database Schema",
+    "status": "todo",
+    "priority": "medium",
+    "assignedTo": "Rakesh"
+  },
+  {
+    "id": 3,
+    "title": "Integrate AI Suggestions",
+    "status": "done",
+    "priority": "high",
+    "assignedTo": "Team AI"
+  }
+]
