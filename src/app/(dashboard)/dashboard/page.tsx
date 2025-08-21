@@ -53,7 +53,6 @@ export default function ProjectsLayout() {
     { title: "Pending Projects", value: pending },
   ];
 
-  // ✅ Bar chart (group by team)
   const barData = Object.values(
     projects.reduce((acc: any, p) => {
       if (!acc[p.team]) acc[p.team] = { name: p.team, projects: 0 };
@@ -62,7 +61,6 @@ export default function ProjectsLayout() {
     }, {})
   );
 
-  // ✅ Pie chart (status distribution)
   const pieData = [
     { name: "Completed", value: completed },
     { name: "Active", value: inProgress },
@@ -93,7 +91,7 @@ export default function ProjectsLayout() {
                 <XAxis dataKey="name" />
                 <YAxis />
                 <Tooltip />
-                <Bar dataKey="projects" fill="#3B82F6" radius={[10, 10, 0, 0]} />
+                <Bar dataKey="projects" fill="#000000" radius={[10, 10, 0, 0]} />
               </BarChart>
             </ResponsiveContainer>
           </CardContent>

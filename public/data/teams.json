@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "teamName": "Frontend Wizards",
+    "project": "Website Redesign",
+    "members": [
+      {
+        "id": 101,
+        "name": "Alice Johnson",
+        "role": "UI/UX Designer",
+        "avatar": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "id": 102,
+        "name": "Bob Smith",
+        "role": "React Developer",
+        "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "teamName": "Backend Ninjas",
+    "project": "API Development",
+    "members": [
+      {
+        "id": 103,
+        "name": "Charlie Brown",
+        "role": "Node.js Developer",
+        "avatar": "https://randomuser.me/api/portraits/men/11.jpg"
+      },
+      {
+        "id": 104,
+        "name": "Diana White",
+        "role": "Database Engineer",
+        "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+      }
+    ]
+  }
+]
