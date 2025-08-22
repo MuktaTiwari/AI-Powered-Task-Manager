@@ -7,8 +7,26 @@
   },
   {
     "id": 2,
-    "email": "user@example.com",
+    "email": "user1@example.com",
+    "password": "123456",
+    "role": "user"
+  },
+
+  {
+    "id": 3,
+    "email": "user2@example.com",
+    "password": "123456",
+    "role": "user"
+  },
+  {
+    "id": 4,
+    "email": "user3@example.com",
     "password": "123456",
     "role": "user"
   }
+
+
+
+
+
 ]
