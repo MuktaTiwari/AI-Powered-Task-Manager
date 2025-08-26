@@ -3,6 +3,8 @@ import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import axios from "axios";
 
+
+import { Input } from "@/components/ui/input";
 type User = {
   email: string;
   password: string;

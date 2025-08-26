@@ -22,7 +22,7 @@ export default function Sidebar({ role }: SidebarProps) {
               </a>
             </li>
             <li>
-              <a href="/admin/settings" className="flex items-center gap-2 p-2 rounded hover:bg-gray-700 transition">
+              <a href="/settings" className="flex items-center gap-2 p-2 rounded hover:bg-gray-700 transition">
                 <FaCog /> Settings
               </a>
             </li>
@@ -40,7 +40,12 @@ export default function Sidebar({ role }: SidebarProps) {
               </a>
             </li>
             <li>
-              <a href="/user/settings" className="flex items-center gap-2 p-2 rounded hover:bg-gray-700 transition">
+              <a href="/user/mytask" className="flex items-center gap-2 p-2 rounded hover:bg-gray-700 transition">
+                <FaCog /> My Task
+              </a>
+            </li>
+            <li>
+              <a href="/settings" className="flex items-center gap-2 p-2 rounded hover:bg-gray-700 transition">
                 <FaCog /> Settings
               </a>
             </li>
